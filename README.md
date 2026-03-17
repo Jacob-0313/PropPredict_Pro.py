@@ -1,4 +1,5 @@
 🏠 PropPredict Pro
+
 AI Real Estate Price & Investment Advisor
 PropPredict Pro is an AI-powered real estate analytics application designed to predict property prices and evaluate investment potential. The system leverages machine learning models to provide accurate price estimates and an investment score based on property features.
 
